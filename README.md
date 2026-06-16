@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LLM_Tokenization_logic
 Learning AI Agent - tokenization, LLMs, and more
 
@@ -53,5 +52,3 @@ Google Gemini API
 tiktoken
 openai (OpenAI-compatible client for Gemini)
 python-dotenv
-
->>>>>>> 6c5d18f6aa4b55a6620070994164839c29960fec
